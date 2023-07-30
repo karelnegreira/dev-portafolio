@@ -29,7 +29,7 @@ const Header = () => {
             <spam>👋</spam>
             <div style={{ marginLeft: 20}}>
               <p className="p-text">Hello, I am </p>
-              <h1 className="head-text">Zone X</h1>
+              <h1 className="head-text">Karel</h1>
             </div>
           </div>
 
