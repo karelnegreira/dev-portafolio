@@ -35,8 +35,21 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import springboot from '../assets/springboot.png';
+import kotlin from '../assets/kotlin.png';
+import java from '../assets/java.png';
+import aws from '../assets/aws.png';
+import kubernetes from '../assets/kubernetes.png';
+import docker from '../assets/docker.png';
+
 export default {
   email,
+  springboot, 
+  java, 
+  aws, 
+  kotlin, 
+  kubernetes, 
+  docker, 
   mobile,
   api,
   cpp,
