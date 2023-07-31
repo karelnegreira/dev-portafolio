@@ -41,6 +41,10 @@ import java from '../assets/java.png';
 import aws from '../assets/aws.png';
 import kubernetes from '../assets/kubernetes.png';
 import docker from '../assets/docker.png';
+import aboutbackend from '../assets/aboutbackend.png';
+import aboutdevops from '../assets/aboutdevops.png';
+import aboutwebdev from '../assets/aboutwebdev.png';
+import aboutfullstack from '../assets/aboutfullstack.png';
 
 export default {
   email,
@@ -72,6 +76,10 @@ export default {
   about02,
   about03,
   about04,
+  aboutbackend, 
+  aboutdevops, 
+  aboutwebdev, 
+  aboutfullstack, 
   profile,
   circle,
   logo,
